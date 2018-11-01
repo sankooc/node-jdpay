@@ -1,5 +1,7 @@
 ## Node for 京东H5支付
 
+[![NPM](https://nodei.co/npm/jdpay.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/jdpay/)
+
 ### 安装
 
 ` npm install jdpay `
